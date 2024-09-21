@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383426424190",
+    "project_id": "thewall-f61fc",
+    "storage_bucket": "thewall-f61fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383426424190:android:8b25e40e5d51d47d3b972f",
+        "android_client_info": {
+          "package_name": "com.malakmaher.thewall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2nSWRgpKu4qTJd_XjqHHsLTYpxsAIg1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
